@@ -21,7 +21,7 @@ carpentry: "dc"
 # dc-genomics: for Data Carpentry Genomics
 # dc-socsci: for Data Carpentry Social Sciences
 # dc-geospatial: for Data Carpentry Geospatial
-curriculum: "dc-ecology"
+curriculum: "dc-socsci"
 
 # If there is both an R and python official version of a curriculum, change the
 # value of the variable below ("flavor") to get the schedule updated accordingly
@@ -35,7 +35,7 @@ flavor: "python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Scottish Funding Council, Data Skills Workforce Development, Data Carpentry Ecology. Spreadsheet, Openrefine and Python "
+title: "Scottish Funding Council, Data Skills Workforce Development, Data Carpentry Social Sciences. Spreadsheet, Openrefine and Python "
 
 
 #------------------------------------------------------------
