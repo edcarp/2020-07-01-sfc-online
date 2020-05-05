@@ -317,5 +317,5 @@ please preview your site before committing, and make sure to run
 </p>
 
 <p>
-The setup instructions for the Data Carpentry Social Sciences workshops (with Python) can be found at <a href = "https://edcarp.github.io/2020-05-26-sfc-online/setup-python-workshop/"> here</a>.
+The setup instructions for the Data Carpentry Social Sciences workshops (with Python) can be found at <a href = "https://edcarp.github.io/2020-05-26-sfc-online/setup-python-workshop"> here</a>.
 </p>
