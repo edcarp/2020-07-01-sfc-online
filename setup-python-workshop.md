@@ -13,8 +13,8 @@ page, you should have everything you need to participate fully in the workshop!
 
 
 ## Data
-
-You can download all of the data used in this workshop by clicking
+### Spreadsheet and Openrefine
+For the Spreadhseet and Openrefine classes you can download all of the data used in this workshop by clicking
 [this download link](https://ndownloader.figshare.com/articles/6262019/versions/4). The file is 206 KB.
 
 Clicking the download link will automatically download all of the files to your default download directory as a single compressed
@@ -22,6 +22,13 @@ Clicking the download link will automatically download all of the files to your 
 application).
 
 For a full description of the data used in this workshop see the [data page](data).
+
+### Python 
+The data we will be using is taken from the [gapminder][gapminder] dataset.
+To obtain it, download and unzip the file 
+[python-novice-gapminder-data.zip]({{page.root}}/files/python-novice-gapminder-data.zip).
+In order to follow the presented material, you should launch the JupyterLab 
+server in the root directory (see [Starting JupyterLab]({{ page.root }}/01-run-quit/#starting-jupyterlab)).
 
 
 ## Software
@@ -125,13 +132,7 @@ If you run into any difficulties, please request help before the workshop begins
         press enter to prepend Anaconda to your `PATH` (this makes the Anaconda 
         distribution your user's default Python).
 
-### Getting the Data
 
-The data we will be using is taken from the [gapminder][gapminder] dataset.
-To obtain it, download and unzip the file 
-[python-novice-gapminder-data.zip]({{page.root}}/files/python-novice-gapminder-data.zip).
-In order to follow the presented material, you should launch the JupyterLab 
-server in the root directory (see [Starting JupyterLab]({{ page.root }}/01-run-quit/#starting-jupyterlab)).
 
 
 [anaconda]: https://www.anaconda.com/
