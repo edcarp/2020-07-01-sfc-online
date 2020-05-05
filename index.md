@@ -323,3 +323,6 @@ please preview your site before committing, and make sure to run
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+<p>
+More informations on how to install Anaconda can be found <a href = "https://docs.anaconda.com/anaconda/install/"> here</a>.
+</p>
