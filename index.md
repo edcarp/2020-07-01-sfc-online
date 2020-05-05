@@ -316,13 +316,6 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-{% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/setup.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
-{% endif %}
 <p>
-More informations on how to install Anaconda can be found <a href = "https://docs.anaconda.com/anaconda/install/"> here</a>.
+The setup instructions for the Data Carpentry Social Sciences workshops (with Python) can be found at <a href = https://edcarp.github.io/2020-05-26-sfc-online/setup-python-workshop/"> here</a>.
 </p>
