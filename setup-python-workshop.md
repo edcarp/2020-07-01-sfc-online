@@ -28,7 +28,7 @@ The data we will be using is taken from the [gapminder][gapminder] dataset.
 To obtain it, download and unzip the file 
 [python-novice-gapminder-data.zip]({{page.root}}/files/python-novice-gapminder-data.zip).
 In order to follow the presented material, you should launch the JupyterLab 
-server in the root directory (see [Starting JupyterLab](http://swcarpentry.github.io/python-novice-gapminder/01-run-quit/#starting-jupyterlab).
+server in the root directory (see [Starting JupyterLab](http://swcarpentry.github.io/python-novice-gapminder/01-run-quit/#starting-jupyterlab)).
 
 
 ## Software
